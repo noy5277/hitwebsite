@@ -7,5 +7,5 @@
 <body>
 <center>
     <h1>
-        Wine selected!
+        Liquor selected!
     </h1>
