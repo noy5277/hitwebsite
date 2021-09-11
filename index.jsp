@@ -9,7 +9,7 @@
     <h1>
         Select the type of Liquor
     </h1>
-    <form method="post" action="SelectLiquor">
+    <form method="post" action="/noyzozel/Liquor.jsp">
        <br>
         <select name="Type" size="1">
             <option>WINE</option>
